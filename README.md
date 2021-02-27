@@ -15,6 +15,20 @@ In this course we will be talking about sensor fusion, whch is the process of ta
 
 ## Installation
 
+### Dependencies
+cmake >= 2.8
+-All OSes: click here for installation instructions
+-make >= 4.1 (Linux, Mac), 3.81 (Windows)
+-Linux: make is installed by default on most Linux distros
+Mac: install Xcode command line tools to get make
+Windows: Click here for installation instructions
+PCL, C++
+-The link here is very helpful, https://larrylisky.com/2014/03/03/installing-pcl-on-ubuntu/
+gcc/g++ >= 5.4
+Linux: gcc / g++ is installed by default on most Linux distros
+Mac: same deal as make - install Xcode command line tools
+Windows: recommend using MinGW
+
 ### Linux Ubuntu 16
 
 Install PCL, C++
