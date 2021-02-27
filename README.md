@@ -1,7 +1,5 @@
 # Sensor Fusion course - 1st Project - Lidar Obstacle Detection
 
-<img src="https://github.com/Srivaths-V/Lidar-Obstacle-Detection/blob/main/My%20Result%20-%20Lidar%20Obstacle%20Detection.png" width="800" height="500" />
-
 ### Lidar Principle
 
 **Lidar** sensing gives us high resolution data by sending out thousands of laser signals. These lasers bounce off objects, returning to the sensor where we can then determine how far away objects are by timing how long it takes for the signal to return. Also we can tell a little bit about the object that was hit by measuring the intesity of the returned signal. Each laser ray is in the infrared spectrum, and is sent out at many different angles, usually in a 360 degree range. While lidar sensors gives us very high accurate models for the world around us in 3D, they are currently very expensive, upwards of $60,000 for a standard unit.
@@ -11,6 +9,9 @@
 * Detection of other cars on the road using raw Lidar data from Udacity's real self-driving car.
 * Implementation of 3D Ransac for segmentation and Clustering executed by Euclidean Clustering Algorithm along with KD-Tree.
 * Bounding boxes used for obstacles (cars) detection.
+
+### My Result
+<img src="https://github.com/Srivaths-V/Lidar-Obstacle-Detection/blob/main/My%20Result%20-%20Lidar%20Obstacle%20Detection.png" width="800" height="500" />
 
 ### Dependencies
 * cmake >= 2.8
