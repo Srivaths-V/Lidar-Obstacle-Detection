@@ -20,16 +20,16 @@
  
 ### Dependencies
 * cmake >= 2.8
-* All OSes: click here for installation instructions
+* All OSes: click for installation instructions - https://cmake.org/install/
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
 * Linux: make is installed by default on most Linux distros
-* Mac: install Xcode command line tools to get make
-* Windows: Click here for installation instructions
+* Mac: install Xcode command line tools to get make - https://developer.apple.com/xcode/features/
+* Windows: Click here for installation instructions - http://gnuwin32.sourceforge.net/packages/make.htm
 * PCL, C++
 * The link here is very helpful, https://larrylisky.com/2014/03/03/installing-pcl-on-ubuntu/
 * gcc/g++ >= 5.4
 * Linux: gcc / g++ is installed by default on most Linux distros
-* Mac: same deal as make - install Xcode command line tools
+* Mac: same deal as make - install Xcode command line tools - https://developer.apple.com/xcode/features/
 * Windows: recommend using MinGW
 
 ### Linux Ubuntu 16
