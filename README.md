@@ -11,7 +11,7 @@
 * Bounding boxes used for obstacles (cars) detection.
 
 ### My Result
-<image src= "https://github.com/Srivaths-V/Lidar-Obstacle-Detection/blob/main/Lidar%20result.gif" width = "700" height = "600" />
+<image src= "https://github.com/Srivaths-V/Lidar-Obstacle-Detection/blob/main/Lidar%20result.gif" width = "700" />
  
 ### Dependencies
 * cmake >= 2.8
