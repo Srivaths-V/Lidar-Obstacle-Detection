@@ -1,4 +1,4 @@
-# Sensor Fusion course - 1st Project - Lidar Obstacle Detection
+# Sensor Fusion Program - 1st Project - Lidar Obstacle Detection
 
 ### Lidar Principle
 
